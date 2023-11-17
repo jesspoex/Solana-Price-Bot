@@ -70,4 +70,4 @@ async def on_ready():
         await asyncio.sleep(300)
 
 
-client.run(variables["PRICE_BOT"])
+client.run(MTE0NTU4MzI0MDY1MzA0NTg5NA.GW7dtU.AArC-W-GE7q_h-MBrJSTjMNhLbQc3AbChjGVJ8)
