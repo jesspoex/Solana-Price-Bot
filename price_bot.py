@@ -31,7 +31,7 @@ async def get_price():
     """ Fetches current solana price from coingecko """
 
 
-    url = "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd&include_market_cap=false&include_24hr_vol=false&include_24hr_change=false&include_last_updated_at=false"
+    url = "https://api.coingecko.com/api/v3/simple/price?ids=wolf-solana&vs_currencies=usd&include_market_cap=false&include_24hr_vol=false&include_24hr_change=false&include_last_updated_at=false"
 
 
     async with aiohttp.ClientSession() as session:
